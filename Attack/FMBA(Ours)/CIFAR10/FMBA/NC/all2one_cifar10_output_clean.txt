@@ -1,0 +1,3 @@
+Output for cleanse:  - all2one
+------------------------------
+Test 0:
